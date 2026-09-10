@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiyaNG</string>
+    
+    <!-- Main Screen -->
+    <string name="connect">اتصال</string>
+    <string name="disconnect">قطع اتصال</string>
+    <string name="status_connected">متصل شده است</string>
+    <string name="status_disconnected">قطع شده است</string>
+    <string name="status_connecting">در حال اتصال...</string>
+    
+    <!-- Configuration -->
+    <string name="add_server">اضافه کردن سرور</string>
+    <string name="edit_server">ویرایش سرور</string>
+    <string name="delete_server">حذف سرور</string>
+    <string name="server_name">نام سرور</string>
+    <string name="server_address">آدرس سرور</string>
+    <string name="server_port">پورت</string>
+    
+    <!-- Messages -->
+    <string name="error_invalid_config">پیکربندی نامعتبر است</string>
+    <string name="error_connection_failed">اتصال ناموفق بود</string>
+    <string name="success_connected">اتصال برقرار شد</string>
+    <string name="success_disconnected">اتصال قطع شد</string>
+    
+    <!-- Menu -->
+    <string name="settings">تنظیمات</string>
+    <string name="about">درباره</string>
+    <string name="logs">لاگ‌ها</string>
+    <string name="help">راهنما</string>
+</resources>
